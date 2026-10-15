@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Project Helping Hand**
 
-- 👨‍💻 All of my projects are available at [github.com/acharyawastaken](github.com/acharyawastaken)
+- 👨‍💻 All of my projects are available at [github.com/acharyawastaken](https://github.com/acharyawastaken)
 
-- 📝 I regularly code on [NeetCode](NeetCode)
+- 📝 I regularly code on [NeetCode](https://neetcode.io)
 
 - 💬 Ask me about **Machine Learning Pipelines**
 
